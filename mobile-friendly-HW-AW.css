@@ -1,0 +1,41 @@
+body {
+	background-color: seagreen;
+}
+
+h1 {
+	text-align: center;
+}
+
+.image1 {
+	float: left;
+	width: 400px;
+	height: 400px;
+	background-image: url("spinning.gif");
+	margin: 5px;
+}
+
+
+.image2 {
+	float: left;
+	width: 400px;
+	height: 400px;
+	background-image: url("abstract.gif");
+	margin: 5px;
+}
+
+
+.image3 {
+	float: left;
+	width: 400px;
+	height: 400px;
+	background-image: url("photography.gif");
+	margin: 5px;
+}
+
+a:link {
+	color: blue;
+}
+
+a:hover {
+	color: yellow;
+}
